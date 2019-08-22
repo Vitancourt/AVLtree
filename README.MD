@@ -3,7 +3,10 @@
 ## Requisitos
 gcc
 
-'''bash
-gcc arcBusc.c -o arv
+```bash
+gcc arvBusc.c -o arv
+```
+
+```bash
 ./arv
-'''
+```
