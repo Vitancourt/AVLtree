@@ -6,3 +6,4 @@ gcc
 '''bash
 gcc arcBusc.c -o arv
 ./arv
+'''
