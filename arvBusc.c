@@ -20,7 +20,7 @@ no *rot_dir(no *p);
 no *rot_esq(no *p);
 void imprimeEmOrdem(no *arvore);
 
-main(void){
+int main(void){
 	no *raiz;
 	raiz = insere(raiz, 20);
 	raiz = balance(raiz);
@@ -100,7 +100,7 @@ no *balance(no *arvore){
 }
 
 // altura
-static max2 (int a, int b){   
+int max2 (int a, int b){   
  return   a > b ? a : b; 
 }
 
