@@ -1,6 +1,6 @@
-#Árvore de busca com balanceamento
+# Árvore de busca com balanceamento
 
-##Requisitos
+## Requisitos
 gcc
 
 '''bash
